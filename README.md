@@ -25,3 +25,10 @@ Neste desafio foram praticados os seguintes conhecimentos:
 - **React Hooks** *useState*, *useEffect*
 - **React Testing Library**
 - **React**
+
+> **Preview:**
+>[SPA Instagram Codenation](https://codenation-challenge-darkgram.netlify.app/)
+
+![preview](https://user-images.githubusercontent.com/47192417/83423389-46532c80-a401-11ea-9d0a-376576dac197.png)
+
+
